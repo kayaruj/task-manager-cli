@@ -1,0 +1,13 @@
+name: task_manager
+version: 0.1.0
+
+authors:
+  - Balah <email@gmail.com>
+
+targets:
+  task_manager:
+    main: src/main.cr
+
+crystal: '>= 1.14.0'
+
+license: MIT
