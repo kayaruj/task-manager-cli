@@ -21,7 +21,7 @@ Welcome to the **Task Manager**! This is a command-line application built to hel
 ### 1️⃣ Start the Application
 Run the script in your terminal:
 ```bash
-crystal run your_script_name.cr
+shards run
 ```
 
 # 2️⃣ Menu Options
