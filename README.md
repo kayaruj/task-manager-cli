@@ -182,6 +182,6 @@ Manage your tasks efficiently and never forget what needs to be done. Happy orga
 
 ### Credits
 - 💡 Code idea: ChatGPT
-- 🍬 Developer and author: [Balah7](https://github.com/balah7)
+- 🍬 Developer and author: [~Balah7~](https://github.com/kayaruj)
 
 ~333~
